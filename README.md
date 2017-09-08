@@ -26,7 +26,7 @@ _Add some here_
 
 ## Incubators, Schools, and Communities
 
-_Add some here_
+- [Nodeschool Tokyo](https://github.com/nodeschool/tokyo) - Tokyo NodeSchool chapter. [Website](https://nodeschool.io/tokyo/)
 
 ## Other lists
 
@@ -36,7 +36,7 @@ _Add some here_
 
 This is an open source project; if you want to be a maintainer, you can be! Just open an issue asking if you can come on board. For now, these people manage this project:
 
-[@user](https://github.com/user)
+[@sotayamashita](https://github.com/sotayamashita) and you!
 
 ## Contribute
 
