@@ -26,7 +26,7 @@ _Add some here_
 
 ## Incubators, Schools, and Communities
 
-In Japan, we use [Atend](https://atnd.org/), [connpass](https://connpass.com/dashboard/), [Meetup](https://www.meetup.com/) and [Tech Play](https://techplay.jp/) to find meetup. Unfortunately, these are written in Japanese :jp: , except for Meetup but you can find with Google Translator.
+In Japan, we use [Atend](https://atnd.org/), [connpass](https://connpass.com/dashboard/), [Meetup](https://www.meetup.com/) and [Tech Play](https://techplay.jp/) to find meetups. Unfortunately, these are written in Japanese :jp: (except for Meetup), but you can use them with Google Translator.
 
 - [Node.js Japan Community](https://nodejs.jp/) - It is an organization which develops various activities aiming at disseminating node.js in Japan and around Asia region.
 - [Nodeschool Tokyo](https://github.com/nodeschool/tokyo) - Tokyo NodeSchool chapter. [Website](https://nodeschool.io/tokyo/)
