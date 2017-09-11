@@ -26,6 +26,7 @@ _Add some here_
 
 ## Incubators, Schools, and Communities
 
+- [Node.js Japan Community](https://nodejs.jp/) - It is an organization which develops various activities aiming at disseminating node.js in Japan and around Asia region.
 - [Nodeschool Tokyo](https://github.com/nodeschool/tokyo) - Tokyo NodeSchool chapter. [Website](https://nodeschool.io/tokyo/)
 - [OpenSource Cafe](http://www.osscafe.net/en/) - Cafe & Library for Coworking, Open Source Activity and more
 
