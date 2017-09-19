@@ -33,7 +33,7 @@ In Japan, we use [Atend](https://atnd.org/), [connpass](https://connpass.com/das
 - [Node.js Japan Community](https://nodejs.jp/) - It is an organization which develops various activities aiming at disseminating node.js in Japan and around Asia region.
 - [Nodeschool Tokyo](https://github.com/nodeschool/tokyo) - Tokyo NodeSchool chapter. [Website](https://nodeschool.io/tokyo/)
 
-## Find coworking spaces
+### Find coworking spaces
 
 In Japan, there are a lot of coworking space. If you just want to find wifi and charging. You can find them in Starbucks or there is website called [Dengen Cafe](http://dengen-cafe.com/). It collecting the list of cafe which have wifi and charning. Unfortunately, it is written in Japanese :jp: but you can use them with Google Translator. 
 
