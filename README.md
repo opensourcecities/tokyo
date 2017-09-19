@@ -37,7 +37,8 @@ In Japan, we use [Atend](https://atnd.org/), [connpass](https://connpass.com/das
 
 In Japan, there are a lot of coworking space. If you just want to find wifi and charging. You can find them in Starbucks or there is website called [Dengen Cafe](http://dengen-cafe.com/). It collecting the list of cafe which have wifi and charning. Unfortunately, it is written in Japanese :jp: but you can use them with Google Translator. 
 
-- [OpenSource Cafe](http://www.osscafe.net/en/) - Cafe & Library for Coworking, Open Source Activity and more.
+- [OpenSource Cafe](http://www.osscafe.net/en/) - cafe and library for coworking, open source activity and more.
+- [Yahoo LODGE](https://lodge.yahoo.co.jp/) - Free cafe for coworking by Yahoo Japan!
 
 ## Other lists
 
