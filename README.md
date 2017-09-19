@@ -26,11 +26,18 @@ _Add some here_
 
 ## Incubators, Schools, and Communities
 
+### Find meetups
+
 In Japan, we use [Atend](https://atnd.org/), [connpass](https://connpass.com/dashboard/), [Meetup](https://www.meetup.com/) and [Tech Play](https://techplay.jp/) to find meetups. Unfortunately, these are written in Japanese :jp: (except for Meetup), but you can use them with Google Translator.
 
 - [Node.js Japan Community](https://nodejs.jp/) - It is an organization which develops various activities aiming at disseminating node.js in Japan and around Asia region.
 - [Nodeschool Tokyo](https://github.com/nodeschool/tokyo) - Tokyo NodeSchool chapter. [Website](https://nodeschool.io/tokyo/)
-- [OpenSource Cafe](http://www.osscafe.net/en/) - Cafe & Library for Coworking, Open Source Activity and more
+
+## Find coworking spaces
+
+In Japan, there are a lot of coworking space. If you just want to find wifi and charging. You can find them in Starbucks or there is website called [Dengen Cafe](http://dengen-cafe.com/). It collecting the list of cafe which have wifi and charning. Unfortunately, it is written in Japanese :jp: but you can use them with Google Translator. 
+
+- [OpenSource Cafe](http://www.osscafe.net/en/) - Cafe & Library for Coworking, Open Source Activity and more.
 
 ## Other lists
 
@@ -40,7 +47,7 @@ _Add some here_
 
 This is an open source project; if you want to be a maintainer, you can be! Just open an issue asking if you can come on board. For now, these people manage this project:
 
-[@sotayamashita](https://github.com/sotayamashita) and you!
+[@sotayamashita](https://github.com/sotayamashita) and You!
 
 ## Contribute
 
@@ -50,4 +57,4 @@ If adding to the list, please keep the items alphabetized. Thank you.
 
 ## License
 
-This list is licensed under a [CC-BY 4.0 Unported License](https://creativecommons.org/licenses/by/4.0/), © 2017 <owner>. If this isn't great for you, get in touch.
+This list is licensed under a [CC-BY 4.0 Unported License](https://creativecommons.org/licenses/by/4.0/), © 2017 Sota Yamashita. If this isn't great for you, get in touch.
