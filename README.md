@@ -19,6 +19,7 @@ _Add some here_
 ## GitHub Organizations
 
 - [MAGE](https://github.com/mage/) - Node.js Game Server Framework. [Website](https://www.wizcorp.jp/mage/)
+- [power-assert-js](https://github.com/power-assert-js/) - Power Assert in JavaScript.
 - [Wizcorp](https://github.com/wizcorp/) - Game company in Tokyo that does a lot of Open Source. [Website](https://wizcorp.jp/)
 
 ## Users with Open Source projects
