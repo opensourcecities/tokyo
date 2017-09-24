@@ -24,7 +24,7 @@ _Add some here_
 
 ## Users with Open Source projects
 
-_Add some here_
+- [Ron Korving](https://github.com/ronkorving/) ([NPM](https://www.npmjs.com/~ronkorving))
 
 ## Incubators, Schools, and Communities
 
