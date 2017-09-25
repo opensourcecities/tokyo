@@ -24,6 +24,7 @@ _Add some here_
 
 ## Users with Open Source projects
 
+- [Sota Yamashita](https://github.com/sotayamashita/) ([NPM](https://www.npmjs.com/~sotayamashita))
 - [Ron Korving](https://github.com/ronkorving/) ([NPM](https://www.npmjs.com/~ronkorving))
 
 ## Incubators, Schools, and Communities
